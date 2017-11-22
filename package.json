@@ -1,0 +1,19 @@
+{
+    "name": "WhatsppRailwayInfo",
+    "version": "1.0.0",
+    "description": "A Whatsapp Chatbot for Railway Information",
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "engines":{
+      "node":"8.9.1"
+    }, 
+    "dependencies": {
+      "request": "2.73.0",
+      "restify": "4.1.1"
+    }
+  }
+  
